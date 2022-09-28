@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi I'm Josue Rojas a new Full Stack Web Developer,  I seek to achieve my goals and face new challenges, create new experiences and strengthen my skills.
+Hi I'm Josue Rojas a new Full Stack Web Developer, I seek to achieve my goals and face new challenges, create new experiences and strengthen my skills.
 
 My skills:
   - JavaScript
@@ -16,6 +16,18 @@ My skills:
   - PassportJS
   - NodeMailer
   - pdf-lib
+
+My soft-skills:
+  - Autonomous
+  - Problem Solving
+  - Autodidact
+  - Results-Oriented 
+  - Proactive
+  - Collaborative
+  - Logical Thinking
+  - Cooperation
+  - Dedication
+
 
 My Projects:
 
@@ -35,7 +47,7 @@ My Projects:
     
   E-commerce-videogames: https://e-commerce-videogames.vercel.app
   
-    -As a team, we created a video game ecommerce which are acquired through activation licenses, it has the functions of "guest", "user" and "administrator".
+    -As a team, we created a video game ecommerce which are acquired through activation licenses, it has the functions of "guest", "user" and "administrator" and an application mobile.
       
      The "guest" can review the video game catalog, see the details of the game, add it to the shopping cart and create an account with email or google authentication.
      
@@ -62,4 +74,5 @@ My Projects:
       - bcryptjs
       - mercadopago
       - chart.js
+      - React Native
       
