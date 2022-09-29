@@ -51,7 +51,7 @@ My Projects:
       
      The "guest" can review the video game catalog, see the details of the game, add it to the shopping cart and create an account with email or google authentication.
      
-     The "user" can add/remove a video game from favorites, buy a video game, check their purchases, comment on the video games that the user has bought, edit the      comments      on the video games, add a score to the video games, modify their information ( ) and receive notifications by email of your activity.
+     The "user" can add/remove a video game from favorites, buy a video game, check their purchases, comment on the video games that the user has bought, edit the comments on the video games, add a score to the video games, modify their information (name, lastname, username, password, profile picture) and receive notifications by email of your activity.
      
      The "administrator" can ban a user, view purchase statistics, give users privileges to manage, view available games, modify game information, create new games, disable games and view game catalog
      
