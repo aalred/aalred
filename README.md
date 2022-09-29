@@ -2,6 +2,10 @@
 
 Hi I'm Josue Rojas a new Full Stack Web Developer, I seek to achieve my goals and face new challenges, create new experiences and strengthen my skills.
 
+Contact:
+aalex.red1@gmail.com
+www.linkedin.com/in/josue-rojas-9816a5251
+
 My skills:
   - JavaScript
   - HTML / HTML5
