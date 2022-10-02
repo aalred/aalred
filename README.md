@@ -33,9 +33,9 @@ My soft-skills:
   - Dedication
 
 
-My Projects: https://pi-food-omega.vercel.app
+My Projects: 
 
-  Food: 
+  Food: https://pi-food-omega.vercel.app
     -Is a SPA (Single Page Application) that allows the user to search for cooking recipes, create their own cooking recipes and see the details of the cooking recipes.
     
     Technologies:
